@@ -1,6 +1,6 @@
 # Sirji Demos
 
-This repository features demo videos illustrating Sirji's approach to various problems.
+This repository features demo videos illustrating [Sirji](https://github.com/sirji-ai/sirji)'s approach to various problems.
 
 ## Demo 1: Generate README
 Explore [this link](./1-generate-readme) to see how Sirji interprets folder file contents to generate README, then pushes it to git.
