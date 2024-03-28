@@ -1,4 +1,4 @@
-# sirji-demos
+# Sirji Demos
 
 This repository features demo videos illustrating Sirji's approach to various problems.
 
